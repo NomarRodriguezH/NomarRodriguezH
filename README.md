@@ -15,11 +15,11 @@
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
-- 👨‍🎓 Estudiante de Informática - IPN
-- 🔭 Actualmente trabajo en **Desarrollo Web**
-- 🌱 Actualmente estoy aprendiendo **C# y Python Enfocado a Machine Learning**
-- 👯 Colaborando en un proyecto de clasificación de videos con **IA**
-- 💬 Telegram: @Nomarchess
+- 👨‍🎓 Estudiante de Informática - IPN <br/>
+- 🔭 Actualmente trabajo en **Desarrollo Web** <br/>
+- 🌱 Actualmente estoy aprendiendo **C# y Python Enfocado a Machine Learning** <br/>
+- 👯 Colaborando en un proyecto de clasificación de videos con **IA** <br/>
+- 💬 Telegram: @Nomarchess 
 
 <br/>
 <br/>
@@ -103,6 +103,6 @@
 <br/>
 
 
-<img src"https://github-readme-stats.vercel.app/api?username=NomarRodriguezH&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19"></center>
+<img src="https://github-readme-stats.vercel.app/api?username=NomarRodriguezH&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19"></center>
 
 ------
