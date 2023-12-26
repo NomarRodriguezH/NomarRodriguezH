@@ -1,10 +1,10 @@
-### Hola Visitante, Binevenido a Mi Perfil
+### 👽
 
 <h1 align="center">
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
   </a>
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; !
+  Hola, &lt;ATodos/&gt; !
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a>
@@ -30,8 +30,8 @@
 
 <p align="center">  
   <img src="https://komarev.com/ghpvc/?username=smir45" alt="smir45" />
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/smir45?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/smir45?label=Stars" alt="Total Stars">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/NomarRodriguezH?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/NomarRodriguezH?label=Stars" alt="Total Stars">
 </p>
 
 
@@ -43,7 +43,7 @@
 <br/>
 
 
-**LANGUAGES AND TOOLS:**  
+**Lenguajes Y Herramientas**  
 
 
 <br/>
@@ -77,8 +77,8 @@
 ## 🔥 My contribution streak
 
 <p align="center">
-  <a href="https://github.com/smir45/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=smir45#version3"/>
+  <a href="https://github.com/NomarRodriguezH/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NomarRodriguezH#version3"/>
   </a>
 </p>
 
