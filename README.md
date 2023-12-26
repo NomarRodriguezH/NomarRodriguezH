@@ -15,23 +15,20 @@
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
-
-- 🔭 I’m currently working on **Web Development**
-- 🌱 I’m currently learning **Golang and Competitive Programming**
-- 👯 I’m looking to collaborate on **Web Development**
-- 🤔 I’m looking for with **Internships**
-- 💬 Ask me about Anything [here](https://github.com/smir45/smir45/issues/1)! I am happy to help.
-- 😄 Pronouns : **He/Him/His**
-
+- 👨‍🎓 Estudiante de Informática - IPN
+- 🔭 Actualmente trabajo en **Desarrollo Web**
+- 🌱 Actualmente estoy aprendiendo **C# y Python Enfocado a Machine Learning**
+- 👯 Colaborando en un proyecto de clasificación de videos con **IA**
+- 💬 Telegram: @Nomarchess
 
 <br/>
 <br/>
 
 
 <p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=smir45" alt="smir45" />
+  <img src="https://komarev.com/ghpvc/?username=NomarRodriguezH" alt="" />
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/NomarRodriguezH?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/NomarRodriguezH?label=Stars" alt="Total Stars">
+  <img src="https://img.shields.io/github/stars/NomarRodriguezH?label=Stars" alt="Total Estrellas">
 </p>
 
 
@@ -74,7 +71,7 @@
 <br/>
 
 #
-## 🔥 My contribution streak
+## 🔥 Mis Contribuciones
 
 <p align="center">
   <a href="https://github.com/NomarRodriguezH/github-readme-streak-stats">
@@ -82,19 +79,19 @@
   </a>
 </p>
 
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/smir45?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
+<h3 align="center">Puedes Explorar Mis <a href="https://github.com/NomarRodriguezH?tab=repositories">Repositorios</a></h3>
 
 
 
 
 <br/>
 
-### ⚙️ &nbsp; GitHub Analytics
+### ⚙️ &nbsp; GitHub Estadísticas
 
 <p align="center">
-<a href="https://github.com/smir45">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smir45&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=smir45&layout=compact&exclude_lang=java+r&theme=vue-light" />
+<a href="https://github.com/NomarRodriguezH">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NomarRodriguezH&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NomarRodriguezH&layout=compact&exclude_lang=java+r&theme=vue-light" />
 </a>
 </p>
 
@@ -106,24 +103,6 @@
 <br/>
 
 
-
-
-### 📅 Isometric commit calendar
-
-The *isocalendar* plugin displays an isometric view of your commits calendar, along with a few additional stats like current streak and commit average per day.
-
-<table>
-  <td align="center">
-    <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.isocalendar.svg">
-    <details><summary>Full year version</summary>
-      <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.isocalendar.fullyear.svg">
-    </details>
-    <img width="900" height="1" alt="">
-    
-  </td>
-</table>
-
-<center>
 <img src"https://github-readme-stats.vercel.app/api?username=NomarRodriguezH&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19"></center>
 
 ------
