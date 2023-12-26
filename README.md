@@ -1,4 +1,4 @@
-### Hello World, I'm Samir Mishra:
+### Hola Visitante, Binevenido a Mi Perfil
 
 <h1 align="center">
   <a target="_blank">
@@ -123,8 +123,7 @@ The *isocalendar* plugin displays an isometric view of your commits calendar, al
   </td>
 </table>
 
+<center>
+<img src"https://github-readme-stats.vercel.app/api?username=NomarRodriguezH&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19"></center>
 
 ------
-Credits: [smir45](https://github.com/smir45)
-
-Last edited on: 18/08/2021
