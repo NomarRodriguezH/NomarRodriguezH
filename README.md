@@ -50,7 +50,7 @@
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="PHP"></code>
 <code><img height="40" width="40" src="https://e7.pngegg.com/pngimages/105/17/png-clipart-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-blue-text.png" alt="SQL/MySql"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Lavarel"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/saas-457964.png"alt="Saas"></code>
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/saas-457964.png" alt="Saas"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C"></code>
 <code><img height="40" width="40" src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg" alt="C#"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python"></code>
